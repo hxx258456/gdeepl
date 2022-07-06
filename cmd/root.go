@@ -1,6 +1,5 @@
 /*
 Copyright © 2022 NAME HERE <EMAIL ADDRESS>
-
 */
 package cmd
 
@@ -15,7 +14,7 @@ import (
 var rootCmd = &cobra.Command{
 	Use:   "gdeepl",
 	Short: "gdeepl",
-	Long:  `deepl translate's command line tools`,
+	Long:  `gdeepl translate's command line tools`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	RunE: func(cmd *cobra.Command, args []string) error {
