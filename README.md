@@ -32,3 +32,10 @@ gdeepl -h // 获取帮助信息
 gdeepl version // 获取版本信息
 gdeepl -T "hello world!"
 ```
+
+# 安装
+需要golang环境
+```shell
+go install github.com/hxx258456/gdeepl@latest
+```
+
