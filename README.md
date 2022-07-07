@@ -1,5 +1,6 @@
-# gdeepl
-deepl翻译命令行工具
+# gdeepl deepl翻译命令行工具
+
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/955/badge)](https://bestpractices.coreinfrastructure.org/projects/955) [![Go Report Card](https://goreportcard.com/badge/github.com/hyperledger/fabric)](https://goreportcard.com/report/github.com/hyperledger/fabric)
 
 # 帮助信息
 ```shell
